@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-double Dodaj();
+double Dodaj(double Skl1, double Skl2);    // zeby dzialalo w kompilatorze jezyka c++, nalezy podac argumenty funkcji double Dodaj()
 
 
 int main( )
