@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
-
+                     /* zeby skompilowalo sie w kompilatorze jezyka C nalezy podac flage -lm; w kompilatorze c++ kompiluje sie poprawnie bez podawania flag    */
 struct TrojmianKw {
   double  a;
   double  b;
